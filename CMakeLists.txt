@@ -1,0 +1,11 @@
+project(mathtoolbox)
+cmake_minimum_required(VERSION 2.8)
+set( CMAKE_C_COMPILER "gcc-4.9")
+set( CMAKE_CXX_COMPILER "g++-4.9")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_SKIP_RPATH true)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR})
+include_directories("/Users/new/workspace/cxxtests/cxxtest")
+include_directories("/Users/new/workspace/boost_1_57_0")
+add_library(${PROJECT_NAME} SHARED tests/tests.cpp)
+
