@@ -1,0 +1,11 @@
+# This list of persons that are maintaining bugs on development platforms
+# 
+# 
+# Format of the line:
+#
+# Runner	Platform	Name
+#
+#
+
+Cluster10	gcc-4.9		Patrick Zabkiewicz <pzabkiewicz -at- gmail.com>
+

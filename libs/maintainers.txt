@@ -1,0 +1,7 @@
+# This file contains the list of members and contact information to them.
+# Provides information about who do what in the project.
+
+matrix			Patrick Zabkiewicz <pzabkiewicz -at- gmail.com>
+vector			Patrick Zabkiewicz <pzabkiewicz -at- gmail.com> 
+geometry		Patrick Zabkiewicz <pzabkiewicz -at- gmail.com> 
+polymonials		Patrick Zabkiewicz <pzabkiewicz -at- gmail.com> 
