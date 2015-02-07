@@ -22,6 +22,7 @@
 #include <sstream>
 
 #include "common.h"
+#include "matrix/matrix.hpp"
 
 #define MatrixN Matrix<T>
 
